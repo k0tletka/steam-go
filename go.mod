@@ -1,4 +1,4 @@
-module github.com/Jleagle/steam-go
+module github.com/k0tletka/steam-go
 
 go 1.17
 
